@@ -1,0 +1,522 @@
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+Contents hide
+(Top)
+Etymology
+History
+
+Components and design
+
+Safety
+Costs and benefits
+Environmental effects
+Social issues
+
+Emerging car technologies
+
+Industry
+Alternatives
+Motorsport
+See also
+Notes
+References
+Further reading
+External links
+Car
+
+Article
+Talk
+Read
+View source
+View history
+
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color
+
+Automatic
+
+Light
+
+Dark
+Page semi-protected
+From Wikipedia, the free encyclopedia
+For other uses, see Car (disambiguation).
+"Passenger car" and "Automobile" redirect here. For other uses, see Passenger car (disambiguation), Automobile (disambiguation), and Passenger railroad car.
+Car
+
+The Ford Model T, produced from 1908 to 1927, is widely credited with being the first mass-affordable automobile, and it remains one of the best-selling cars of all time.
+Classification	Vehicle
+Application	Transportation
+Fuel source	
+Battery, Biodiesel, Diesel, Fuel cell, Hybrids, Hydrogen, Natural gas, Petrol (most common), Solar cell
+Powered	Yes
+Self-propelled	Yes
+Wheels	3–6, most often 4
+Axles	2, less commonly 3
+Inventor	Carl Benz
+Invented	1886 (140 years ago)
+A car, or an automobile, is a motor vehicle with wheels. Most definitions of cars state that they run primarily on roads, seat 1–8 people, have four wheels, and mainly transport people rather than cargo.[1][2] There are over 1.6 billion cars in use worldwide as of 2025.
+
+In 1769 the French inventor Nicolas-Joseph Cugnot built the first steam-powered road vehicle, a large three-wheeled dray to carry artillery pieces at walking pace. In 1808 the Swiss inventor François Isaac de Rivaz designed and constructed the first internal-combustion-powered automobile; range was limited to tens of metres by the gaseous fuel held in a large balloon. Until the late nineteenth century the only source of mechanical power for long-distance travel by land was coal in a steam engine. A notable early example of a personal steam carriage was that made in 1840 by Frank Hills of Deptford, near London. This cruised at 26 km/h (16 mph) and was used for day trips, including one of 206 km (128 miles).[3]: 149–150 [4]
+
+The modern car—a practical, marketable automobile for everyday use—was invented in 1886, when the German inventor Carl Benz patented his Benz Patent-Motorwagen. By the end of the nineteenth century, Benz was selling 500 a year of later versions of this.[5] Commercial cars became widely available during the 20th century. The 1901 Oldsmobile Curved Dash and the 1908 Ford Model T, both American cars, are widely considered the first mass-produced[6][7] and mass-affordable[8][9][10] cars, respectively. Cars were rapidly adopted in the US, where they replaced horse-drawn carriages.[11] In Europe and other parts of the world, demand for automobiles did not increase until after World War II.[12] In the 21st century, car usage is still increasing rapidly, especially in China, India, and other newly industrialised countries.[13][14]
+
+Cars have controls for driving, parking, passenger comfort, and a variety of lamps. Over the decades, additional features and controls have been added to vehicles, making them progressively more complex. These include seat belts, airbags, rear-reversing cameras, air conditioning, navigation systems, and in-car entertainment. Most cars in use in the early 2020s are propelled by an internal combustion engine, fueled by the combustion of fossil fuels. Electric cars, which competed with those powered by the internal-combustion engine and steam at the start of the twentieth century, became commercially available again in the 2000s and widespread in the 2020s.
+
+There are costs and benefits to car use. The costs to the individual include acquiring the vehicle, repairs and maintenance, fuel, driving time, parking fees, taxes, and insurance.[15] Personal benefits include on-demand transportation, mobility, independence, and convenience.[16][page needed] Societal benefits include economic benefits, such as job and wealth creation from the automotive industry, and societal wellbeing from leisure and travel opportunities. Traffic collisions are the largest cause of injury-related deaths worldwide.[17] As of 2024, cars produce 10% of global carbon dioxide emissions, contributing to climate change. Other environmental impacts include the resources used to produce and dispose of them and procure their fuel, air pollution from exhaust and particles released by brakes and contact between tyres and the road, and noise and light pollution.[18] Widespread car use results in road congestion and promotes urban sprawl, leading to higher infrastructure costs, habitat destruction, limited mobility for those who cannot drive (including children, disabled people, and the elderly), social isolation, and sedentary lifestyles that worsen health outcomes.[18]
+
+Etymology
+The English word car is believed to originate from Latin carrus/carrum "wheeled vehicle" or (via Old North French) Middle English carre "two-wheeled cart", both of which in turn derive from Gaulish karros "chariot".[19][20] It originally referred to any wheeled horse-drawn vehicle, such as a cart, carriage, or wagon.[21] The word also occurs in other Celtic languages.[22]
+
+"Motor car", attested from 1895, is the usual formal term in British English.[2] "Autocar", a variant likewise attested from 1895 and literally meaning "self-propelled car", is now considered archaic.[23] "Horseless carriage" is attested from 1895.[24]
+
+"Automobile", a classical compound derived from Ancient Greek autós (αὐτός) "self" and Latin mobilis "movable", entered English from French and was first adopted by the Automobile Club of Great Britain in 1897.[25] It fell out of favour in Britain and is now used chiefly in North America,[26] where the abbreviated form "auto" commonly appears as an adjective in compound formations like "auto industry" and "auto mechanic".[27][28]
+
+History
+Main article: History of the automobile
+
+Steam machine of Verbiest, in 1678 (Ferdinand Verbiest)
+
+Cugnot's 1771 fardier à vapeur, as preserved at the Musée des Arts et Métiers, Paris
+
+Frank Hills' steam carriage, 1840
+
+Carl Benz, the inventor of the modern car
+
+The first practical car, Carl Benz's Patent-Motorwagen Nr. 2 of 1886 (image from 1888)
+
+The first production car: 1888 Benz Patent-Motorwagen Model 2 on loan from Science Museum, London to Automuseum Dr Carl Benz, Ladenburg, 2014
+
+The Flocken Elektrowagen was the first four-wheeled electric car
+In 1649, Hans Hautsch of Nuremberg built a clockwork-driven carriage.[29][30] The first steam-powered vehicle was designed by Ferdinand Verbiest, a Flemish member of a Jesuit mission in China around 1672. It was a 65-centimetre-long (26 in) scale-model toy for the Kangxi Emperor that was unable to carry a driver or a passenger.[16][31][32] It is not known with certainty if Verbiest's model was successfully built or run.[32]
+
+Nicolas-Joseph Cugnot is widely credited with building the first full-scale, self-propelled mechanical vehicle in about 1769; he created a steam-powered tricycle.[33] He also constructed two steam tractors for the French Army, one of which is preserved in the French National Conservatory of Arts and Crafts.[33] His inventions were limited by problems with water supply and maintaining steam pressure.[33] In 1801, Richard Trevithick built and demonstrated his Puffing Devil road locomotive, believed by many to be the first demonstration of a steam-powered road vehicle. It was unable to maintain sufficient steam pressure for long periods and was of little practical use.
+
+The development of external combustion (also known as steam) engines is detailed in the history of the car. Still, it is often treated separately from the development of cars in their modern understanding. A variety of steam-powered road vehicles were used during the first part of the 19th century, including steam cars, steam buses, phaetons, and steam rollers. In the United Kingdom, by 1860 steam road vehicles were rare. The Locomotive Acts from 1861 onwards were promoted by the manufacturers of agricultural steam engines to permit their vehicles to use the roads, but the speed restrictions accepted as a quid pro quo had the effect of halting the development in the UK of light powered road vehicles.[3]: 187–237 
+
+In 1807, Nicéphore Niépce and his brother Claude created what was probably the world's first internal combustion engine (which they called a Pyréolophore), which they installed in a boat on the river Saone in France.[34] Coincidentally, in 1807, the Swiss inventor François Isaac de Rivaz designed his own "de Rivaz internal combustion engine", and used it to develop the world's first vehicle to be powered by such an engine. The Niépces' Pyréolophore was fuelled by a mixture of Lycopodium powder (dried spores of the Lycopodium plant), finely crushed coal dust, and resin that were mixed with oil, whereas de Rivaz used a mixture of hydrogen and oxygen held in a balloon.[34] Neither design was successful, as was the case with others, such as Samuel Brown, Samuel Morey, and Etienne Lenoir,[35] who each built vehicles (usually adapted carriages or carts) powered by internal combustion engines.[36]
+
+In November 1881, French inventor Gustave Trouvé demonstrated a three-wheeled car powered by electricity at the International Exposition of Electricity.[37] Several other German engineers, including Gottlieb Daimler, Wilhelm Maybach, Siegfried Marcus, and Carl Benz were also working on cars and engines at about the same time.
+
+In 1879, Benz was granted a patent for a stationary engine. He had long dreamed of applying the internal combustion engine to produce a horseless carriage and began work on it in 1884.[38]: 74  In 1885 he produced his first prototype car, the Benz Patent-Motorwagen Nr. 1.[38]: 74, Fig.14  On 29 January 1886 he applied for a patent for it,[38]: 77  which was granted on 2 November of that year. Benz further developed the Patent-Motorwagen,[39]: 80  and had sufficient confidence in this to drive into Mannheim and have his vehicle written up in the Neue Badische Landeszeitung of 4 June 1886.[38]: 78 
+
+Benz' first production car, the Patent-Motorwagen Model 2, was produced in single-digit numbers in 1887–88.[38]: 94–95, Fig.27  Frenchman Émile Roger, already producing Benz engines under license, had added the Benz car to his product line in 1888.[40] Perhaps 60 of the Model 3 were produced between 1889 and 1893, the majority assembled in Paris from kits by Émile Roger.[41] Many historians consider Benz' advances so significant that they largely credit him as the inventor of the car and regard his 1886 patent as the birth of the modern car.[36][42][43]
+
+In August 1888, Bertha Benz, the wife and business partner of Carl Benz, undertook the first road trip by an internal combustion engine car, to prove the road-worthiness of her husband's invention.[44] In 1896, Carl Benz designed and patented the first internal-combustion flat engine, called boxermotor. During the last years of the 19th century, Benz was the largest car company in the world with 572 units produced in 1899 and, because of its size, Benz & Cie. became a joint-stock company. The first motor car in central Europe and one of the first factory-made cars in the world was produced by the Czech company Nesselsdorfer Wagenbau (later renamed to Tatra) in 1897, the Präsident automobil.
+
+Daimler and Maybach founded Daimler Motoren Gesellschaft (DMG) in Cannstatt in 1890, and sold their first car in 1892 under the brand name Daimler. It was a horse-drawn stagecoach built by another manufacturer, which they retrofitted with an engine of their design. By 1895, about 30 vehicles had been built by Daimler and Maybach, either at the Daimler works or at the Hotel Hermann, where they set up shop after disputes with their backers. Benz, Maybach, and the Daimler team seem to have been unaware of each other's early work. They never worked together; by the time of the merger of the two companies, Daimler and Maybach were no longer part of DMG.
+
+Daimler died in 1900, and later that year, Maybach designed an engine named Daimler-Mercedes that was installed in a specially ordered model built to specifications set by Emil Jellinek. This was a limited production run of vehicles for Jellinek to race and market in his country. Two years later, in 1902, a new model of the DMG car was produced and named Mercedes after the Maybach engine, which generated 35 hp. Maybach left DMG shortly thereafter and opened his own business. Rights to the Daimler brand name were sold to other manufacturers.
+
+In 1890, Émile Levassor (who had bought a Benz Patent-Motorwagen Model 2 in 1888) and Armand Peugeot of France began producing vehicles with Daimler engines, and so laid the foundation of the automotive industry in France. In 1891, Auguste Doriot and his Peugeot colleague Louis Rigoulot completed the longest trip by a petrol-driven vehicle when their self-designed and built Daimler-powered Peugeot Type 3 completed 2,100 kilometres (1,300 mi) from Valentigney to Paris and Brest and back again. They were attached to the first Paris–Brest–Paris bicycle race, but finished six days after the winning cyclist, Charles Terront.
+
+The first design for an American car with a petrol internal combustion engine was made in 1877 by George Selden of Rochester, New York. Selden applied for a patent for a car in 1879, but the patent application expired because the vehicle was never built. After a delay of 16 years and a series of attachments to his application, on 5 November 1895, Selden was granted a US patent (U.S. patent 549,160) for a road locomotive powered by a two-stroke engine, which, many argued,[45] hindered, more than encouraged, development of cars in the United States. His patent was challenged by Henry Ford and others, and, in 1911, the court ruled that the patent held only for cars using two-stroke "Brayton type" engines, which by then had mostly fallen out of use in favor of four-stroke Otto cycle engines.[46][47]
+
+In 1893, the first running, petrol-driven American car was built and road-tested by the Duryea brothers of Springfield, Massachusetts. The first public run of the Duryea Motor Wagon took place on 21 September 1893, on Taylor Street in Metro Center Springfield.[48][49][new archival link needed] Studebaker, subsidiary of a long-established wagon and coach manufacturer, started to build cars in 1897[50]: 66  and commenced sales of electric vehicles in 1902 and petrol vehicles in 1904.[51]
+
+In Britain, there had been several attempts to build steam cars with varying degrees of success, with Thomas Rickett even attempting a production run in 1860.[52] Santler from Malvern is recognised by the Veteran Car Club of Great Britain as having made the first petrol-driven car in the country in 1894,[53] followed by Frederick William Lanchester in 1895, but these were both one-offs.[53] The first production vehicles in Great Britain came from the Daimler Company, a company founded by Harry J. Lawson in 1896, after purchasing the right to use the name of the engines. Lawson's company made its first car in 1897, and they bore the name Daimler.[53]
+
+In 1892, German engineer Rudolf Diesel was granted a patent for a "New Rational Combustion Engine". In 1897, he built the first diesel engine.[36] Steam-, electric-, and petrol-driven vehicles competed for a few decades, with petrol internal combustion engines achieving dominance in the 1910s. Although various pistonless rotary engine designs have attempted to compete with the conventional piston and crankshaft design, only Mazda's version of the Wankel engine has had more than very limited success. All in all, it is estimated that over 100,000 patents have contributed to the modern automobile and motorcycle.[54]
+
+Mass production
+See also: Automotive industry
+
+Ransom E. Olds founded Olds Motor Vehicle Company (Oldsmobile) in 1897.
+
+Ford Motor Company automobile assembly line in the 1920s
+Large-scale, production-line manufacturing of affordable cars was started by Ransom Olds in 1901 at his Oldsmobile factory in Lansing, Michigan, and based upon stationary assembly line techniques pioneered by Marc Isambard Brunel at the Portsmouth Block Mills, England, in 1802. The assembly line style of mass production and interchangeable parts had been pioneered in the US by Thomas Blanchard in 1821, at the Springfield Armory in Springfield, Massachusetts.[55] This concept was greatly expanded by Henry Ford, beginning in 1913 with the world's first moving assembly line for cars at the Highland Park Ford Plant.
+
+As a result, Ford's cars came off the line in 15-minute intervals, much faster than previous methods, increasing productivity eightfold while using less labour (from 12.5 manhours to 1 hour 33 minutes).[56] It was so successful, paint became a bottleneck. Only Japan black would dry fast enough, forcing the company to drop the variety of colours available before 1913, until fast-drying Duco lacquer was developed in 1926. This is the source of Ford's apocryphal remark, "any color as long as it's black".[56] In 1914, an assembly line worker could buy a Model T with four months' pay.[56]
+
+Ford's complex safety procedures—especially assigning each worker to a specific location rather than allowing them to roam—dramatically reduced injury rates.[57] The combination of high wages and high efficiency is called "Fordism" and was copied by most major industries. The efficiency gains from the assembly line also coincided with the US's economic rise. The assembly line forced workers to move at a certain pace with very repetitive motions, which led to more output per worker, while other countries used less productive methods.
+
+In the automotive industry, its success was dominant and quickly spread worldwide, with the founding of Ford France and Ford Britain in 1911, Ford Denmark in 1923, and Ford Germany in 1925; in 1921, Citroën was the first native European manufacturer to adopt the production method. Soon, companies had to have assembly lines or risk going bankrupt; by 1930, 250 companies that did not have assembly lines disappeared.[56]
+
+The development of automotive technology was rapid, due in part to the hundreds of small manufacturers competing to gain the world's attention. Key developments included electric ignition and the electric self-starter (both by Charles Kettering, for the Cadillac Motor Company in 1910–1911), independent suspension, and four-wheel brakes.
+
+Since the 1920s, nearly all cars have been mass-produced to meet market needs, so marketing plans have often heavily influenced car design. It was Alfred P. Sloan who established the idea of different makes of cars produced by one company, called the General Motors Companion Make Program, so that buyers could "move up" as their fortunes improved.
+
+Reflecting the rapid pace of change, makers shared parts with one another, resulting in lower costs across all price ranges. For example, in the 1930s, LaSalles, sold by Cadillac, used cheaper mechanical parts made by Oldsmobile; in the 1950s, Chevrolet shared bonnet, doors, roof, and windows with Pontiac; by the 1990s, corporate powertrains and shared platforms (with interchangeable brakes, suspension, and other parts) were common. Even so, only major makers could afford high costs, and even companies with decades of production, such as Apperson, Cole, Dorris, Haynes, or Premier, could not manage: of some two hundred American car makers in existence in 1920, only 43 survived in 1930, and with the Great Depression, by 1940, only 17 of those were left.[56]
+
+In Europe, much the same would happen. Morris set up its production line at Cowley in 1924, and soon outsold Ford, while beginning in 1923 to follow Ford's practice of vertical integration, buying Hotchkiss' British subsidiary (engines), Wrigley (gearboxes), and Osberton (radiators), for instance, as well as competitors, such as Wolseley: in 1925, Morris had 41 per cent of total British car production. Most British small-car assemblers, from Abbey to Xtra, had gone under. Citroën did the same in France, coming to cars in 1919; between them and other cheap cars in reply such as Renault's 10CV and Peugeot's 5CV, they produced 550,000 cars in 1925, and Mors, Hurtu, and others could not compete.[56] Germany's first mass-manufactured car, the Opel 4PS Laubfrosch (Tree Frog), came off the line at Rüsselsheim in 1924, soon making Opel the top car builder in Germany, with 37.5 per cent of the market.[56]
+
+In Japan, car production was very limited before World War II. Only a handful of companies produced vehicles in limited numbers, and these were small, three-wheeled for commercial use, like Daihatsu, or the result of partnerships with European companies, like Isuzu building the Wolseley A-9 in 1922. Mitsubishi was also partnered with Fiat and built the Mitsubishi Model A based on a Fiat vehicle. Toyota, Nissan, Suzuki, Mazda, and Honda began as companies producing non-automotive products before the war, then switched to car production in the 1950s. Kiichiro Toyoda's decision to take Toyoda Loom Works into automobile manufacturing would eventually lead to the formation of Toyota Motor Corporation, the world's largest automobile manufacturer. Subaru, meanwhile, was formed from a conglomerate of six companies that banded together as Fuji Heavy Industries, as a result of having been broken up under keiretsu legislation.
+
+Components and design
+Propulsion and fuels
+See also: Alternative fuel vehicle
+Fossil fuels
+Most cars in use in the mid 2020s run on petrol burnt in an internal combustion engine (ICE). Some cities ban older, more polluting petrol-driven cars, and some countries plan to ban sales in the future. However, some environmental groups say this phase-out of fossil fuel vehicles must be brought forward to limit climate change. Production of petrol-fuelled cars peaked in 2017.[58][59]
+
+Other hydrocarbon fossil fuels also burnt by deflagration (rather than detonation) in ICE cars include diesel, autogas, and CNG. Removal of fossil fuel subsidies,[60][61] concerns about oil dependence, tightening environmental laws and restrictions on greenhouse gas emissions are propelling work on alternative power systems for cars. This includes hybrid vehicles, plug-in electric vehicles, and hydrogen vehicles. As of 2025 one in four cars sold is electric but,[62] despite rapid growth, less than one in twenty cars on the world's roads were fully electric and plug-in hybrid cars by the end of 2024.[63] Cars for racing or speed records have sometimes employed jet or rocket engines, but these are impractical for common use. Oil consumption has increased rapidly in the 20th and 21st centuries because there are more cars; the 1980s oil glut even fuelled the sales of low-economy vehicles in OECD countries.[citation needed]
+
+Batteries
+Main article: Electric vehicle battery
+See also: Electric car § Batteries, and Automotive battery
+
+2011 Nissan Leaf electric car
+
+The weight of the low battery stabilises the car.[64] This is a dual-motor, four-wheel-drive layout, but many cars only have one motor.
+In almost all hybrid (even mild hybrid) and pure electric cars, regenerative braking recovers and returns to a battery some energy which would otherwise be wasted by friction brakes getting hot.[65] Although all cars must have friction brakes (front disc brakes and either disc or drum rear brakes[66]) for emergency stops, regenerative braking improves efficiency, particularly in city driving.[67]
+
+User interface
+Main article: Car controls
+
+In the Ford Model T the left-side hand lever sets the rear wheel parking brakes and puts the transmission in neutral. The lever to the right controls the throttle. The lever on the left of the steering column is for ignition timing. The left foot pedal changes the two forward gears while the centre pedal controls reverse. The right pedal is the brake.
+Cars are equipped with controls for driving, passenger comfort, and safety, normally operated by a combination of feet and hands, and occasionally by voice in 21st-century cars. These controls include a steering wheel, pedals for operating the brakes and controlling the car's speed (and, in a manual transmission car, a clutch pedal), a shift lever or stick for changing gears, and several buttons and dials for turning on lights, ventilation, and other functions. Modern cars' controls are now standardised, such as the location of the accelerator and brake, but this was not always the case. Controls are evolving in response to new technologies, for example, the electric car and the integration of mobile communications.
+
+Some of the original controls are no longer required. For example, all cars once had controls for the choke valve, clutch, ignition timing, and a crank instead of an electric starter. However, new controls have also been added to vehicles, making them more complex. These include air conditioning, navigation systems, and in-car entertainment. Another trend is the replacement of physical knobs and switches with secondary controls, such as touchscreen controls, such as BMW's iDrive and Ford's MyFord Touch. Another change is that while early cars' pedals were physically linked to the brake mechanism and throttle, in the early 2020s, cars have increasingly replaced these physical linkages with electronic controls.
+
+Electronics and interior
+
+Panel for fuses and circuit breakers
+Cars are typically equipped with interior lighting which can be toggled manually or be set to light up automatically with doors open, an entertainment system which originated from car radios, sideways windows which can be lowered or raised electrically (manually on earlier cars), and one or multiple auxiliary power outlets for supplying portable appliances such as mobile phones, portable fridges, power inverters, and electrical air pumps from the on-board electrical system.[68][69][a] More costly upper-class and luxury cars are equipped with features earlier such as massage seats and collision avoidance systems.[70][71]
+
+Dedicated automotive fuses and circuit breakers prevent damage from electrical overload.
+
+Lighting
+Main article: Automotive lighting
+
+Audi A4 daytime running lights
+Cars are typically fitted with multiple types of lights. These include headlights, which are used to illuminate the way ahead and make the car visible to other users, so that the vehicle can be used at night; in some jurisdictions, daytime running lights; red brake lights to indicate when the brakes are applied; amber turn signal lights to indicate the turn intentions of the driver; white-coloured reverse lights to illuminate the area behind the car (and indicate that the driver will be or is reversing); and on some vehicles, additional lights (e.g., side marker lights) to increase the visibility of the car. Interior ceiling lights in the car are usually fitted for the driver and passengers. Some vehicles also have a boot light and, more rarely, an engine compartment light.
+
+Weight and size
+
+A Chevrolet Suburban extended-length SUV weighs 3,300 kilograms (7,200 lb) (gross weight).[72]
+During the late 20th and early 21st century, cars increased in weight due to batteries,[73] modern steel safety cages, anti-lock brakes, airbags, and "more-powerful—if more efficient—engines"[74] and, as of 2019, typically weigh between 1 and 3 tonnes (1.1 and 3.3 short tons; 0.98 and 2.95 long tons).[75] Heavier cars are safer for the driver from a crash perspective, but more dangerous for other vehicles and road users.[74][76] The weight of a car influences fuel consumption and performance, with more weight resulting in increased fuel consumption and decreased performance. The Wuling Hongguang Mini EV, a typical city car, weighs about 700 kilograms (1,500 lb). Heavier cars include SUVs and extended-length SUVs like the Suburban. Cars have also become wider.[77]
+
+Some places tax heavier cars more:[77] as well as improving pedestrian safety, this can encourage manufacturers to use materials such as recycled aluminium instead of steel.[78] It has been suggested that one benefit of subsidising charging infrastructure is that cars can use lighter batteries.[79]
+
+Seating and body style
+See also: Car body style, Car classification, Truck classification, and Vehicle size class
+Most cars are designed to carry multiple occupants, often with four or five seats. Cars with five seats typically seat two passengers in the front and three in the rear. Full-size cars and large sport utility vehicles can often carry six, seven, or more occupants, depending on seat arrangement. On the other hand, sports cars are most often designed with only two seats. Utility vehicles like pickup trucks combine seating with extra cargo or utility functionality. The differing needs for passenger capacity and their luggage or cargo space has resulted in the availability of a large variety of body styles to meet individual consumer requirements that include, among others, the sedan/saloon, hatchback, station wagon/estate, coupe, and minivan.
+
+Safety
+Main articles: Car safety, Traffic collision, Low-speed vehicle, and Epidemiology of motor vehicle collisions
+
+Result of a serious car collision
+Traffic collisions are the largest cause of injury-related deaths worldwide.[17] Mary Ward became one of the first documented car fatalities in 1869 in Parsonstown, Ireland,[80] and Henry Bliss one of the US's first pedestrian car casualties in 1899 in New York City.[81] There are now standard tests for safety in new cars, such as the Euro and US NCAP tests,[82] and insurance-industry-backed tests by the Insurance Institute for Highway Safety (IIHS).[83] However, not all such tests consider the safety of people outside the car, such as drivers of other cars, pedestrians and cyclists.[84] Some countries are tightening safety regulations for new cars, for example to mandate data recorders and automated braking.[85]
+
+Costs and benefits
+Main articles: Economics of car usage, Car costs, and Effects of the car on societies
+
+Road congestion is an issue in many major cities (pictured is Chang'an Avenue in Beijing).[86]
+The costs of car usage, which may include the cost of: acquiring the vehicle, repairs and auto maintenance, fuel, depreciation, driving time, parking fees, taxes, and insurance,[15] are weighed against the cost of the alternatives, and the value of the benefits—perceived and real—of vehicle usage. The benefits may include on-demand transportation, mobility, independence, and convenience,[16][page needed] and emergency power.[87] During the 1920s, cars had another benefit: "[c]ouples finally had a way to head off on unchaperoned dates, plus they had a private space to snuggle up close at the end of the night."[88]
+
+Similarly the costs to society of car use may include; maintaining roads, land use, air pollution, noise pollution, road congestion, public health, health care, and of disposing of the vehicle at the end of its life; and can be balanced against the value of the benefits to society that car use generates. Societal benefits may include economic benefits, such as job and wealth creation, from car production and maintenance, transportation provision, societal wellbeing derived from leisure and travel opportunities, and revenue generation from the tax opportunities. The ability of humans to move flexibly from place to place has far-reaching implications for the nature of societies.[89]
+
+Environmental effects
+See also: Exhaust gas, Waste tyres, Environmental effects of transport, Externalities of automobiles, Noise pollution, Environmental aspects of the electric car, and Vehicle recycling
+
+Trucks' share of US vehicles produced has tripled since 1975. Though vehicle fuel efficiency has increased within each category, the overall trend toward less efficient types of vehicles has offset some of the benefits of greater fuel economy and reductions in pollution and carbon dioxide emissions.[90] Without the shift towards SUVs, energy use per unit distance could have fallen 30% more than it did from 2010 to 2022.[91]
+
+Growing sales of electric vehicles (EVs) indicate a trend away from gas-powered vehicles that generate greenhouse gases that cause climate change.[92]
+close-up of 2 exhaust pipes with whitish smoke
+Car exhaust gas is one type of pollution
+Car production and use have a large number of environmental impacts: it causes local air pollution plastic pollution and contributes to greenhouse gas emissions and climate change.[18] Cars and vans caused 10% of energy-related carbon dioxide emissions in 2022.[93] As of 2023, electric cars produce about half the emissions over their lifetime as diesel and petrol cars. This is set to improve as countries produce more of their electricity from low-carbon sources.[94] Cars consume almost a quarter of world oil production as of 2019.[58] Cities planned around cars are often less dense, which leads to further emissions, as they are less walkable, for instance.[18] A growing demand for large SUVs is driving up emissions from cars.[95]
+
+Cars are a major cause of air pollution,[96] which stems from exhaust gas in diesel and petrol cars and from dust from brakes, tyres, and road wear. Larger cars pollute more.[97] Heavy metals and microplastics (from tyres) are also released into the environment, during production, use, and at the end of life. Mining related to car manufacturing and oil spills both cause water pollution.[18]
+
+Animals and plants are often negatively affected by cars through habitat destruction and fragmentation caused by the road network, as well as pollution. Animals are also killed every year on roads by cars, referred to as roadkill.[18] More recent road developments are including significant environmental mitigation in their designs, such as green bridges (designed to allow wildlife crossings) and creating wildlife corridors.
+
+Governments use fiscal policies, such as road tax, to discourage the purchase and use of more polluting cars;[98] Vehicle emission standards ban the sale of new highly pollution cars.[99] Many countries plan to stop selling fossil cars altogether between 2025 and 2050.[100] Various cities have implemented low-emission zones, banning old fossil fuel and Amsterdam is planning to ban fossil fuel cars completely.[101][102] Some cities make it easier for people to choose other forms of transport, such as cycling.[101] Many Chinese cities limit licensing of fossil fuel cars.[103]
+
+Social issues
+Mass production of personal motor vehicles in the United States and other developed countries with extensive territories, such as Australia, Argentina, and France, vastly increased individual and group mobility and greatly expanded economic development in urban, suburban, exurban, and rural areas.[citation needed] Growth in the popularity of cars and commuting has led to traffic congestion.[104] Moscow, Istanbul, Bogotá, Mexico City and São Paulo were the world's most congested cities in 2018 according to INRIX, a data analytics company.[105]
+
+Access to cars
+In the United States, the transport divide and car dependency resulting from domination of car-based transport systems presents barriers to employment in low-income neighbourhoods,[106] with many low-income individuals and families forced to run cars they cannot afford in order to maintain their income.[107] Dependency on automobiles by African Americans may result in exposure to the hazards of driving while black and other types of racial discrimination related to buying, financing and insuring them.[108]
+
+Health impact
+Further information: Pollution and reproduction
+Air pollution from cars increases the risk of a number of diseases, including stroke, heart disease, chronic obstructive pulmonary disease (COPD), lung cancer, respiratory infections and aggravated asthma.[109] Air pollution is also linked to global impacts on all aspects of sexual reproduction from male and female fertility to fetal development, birth outcomes, and long-term health of offspring.[110][111][18] Children are extra vulnerable to air pollution, as their bodies are still developing and air pollution in children is linked to the development of asthma, childhood cancer, and neurocognitive issues such as autism.[112][18] The growth in popularity of the car allowed cities to sprawl, therefore encouraging more travel by car, resulting in inactivity and obesity, which in turn can lead to increased risk of a variety of diseases.[113] When places are designed around cars, children have fewer opportunities to go places by themselves and lose opportunities to become more independent.[114][18]
+
+Emerging car technologies
+Intensive development of conventional battery electric vehicles is continuing into the 2020s,[115] for example lithium iron phosphate batteries are safer and cheaper.[116] Sensors such as lidar are more used.[117] Other car technologies that are under development include wireless charging.[118] Software is increasing and may have many new uses, for example automatically not hitting pedestrians.[119]
+
+New materials which may replace steel car bodies include aluminium,[120] fibreglass, carbon fibre, biocomposites, and carbon nanotubes.[121] Telematics technology is allowing more and more people to share cars, on a pay-as-you-go basis, through car share and carpool schemes. Communication is also evolving due to connected car systems.[122] Open-source cars are not widespread.[123] Microwave weapons which can disable cars are being tested.[124]
+
+Self-driving car
+Main article: Self-driving car
+
+A robotic Volkswagen Passat shown at Stanford University is a driverless car.
+Fully self-driving vehicles, also known as autonomous cars, already exist as robotaxis in some locations.[125][126] Laws for the regulation of self-driving cars will need updating before widespread deployment can happen.[127][128]
+
+Car sharing
+Car-share arrangements and carpooling are also increasingly popular, in the US and Europe.[129] Services like car sharing offer residents to "share" a vehicle rather than own a car in already congested neighbourhoods.[130]
+
+Industry
+Main article: Automotive industry
+
+A car being assembled in a factory
+The automotive industry designs, develops, manufactures, markets, and sells the world's motor vehicles, more than three-quarters of which are cars. In 2020, there were 56 million cars manufactured worldwide,[131] down from 67 million the previous year.[132] The automotive industry in China produces by far the most (20 million in 2020), followed by Japan (seven million), then Germany, South Korea, and India.[133] The largest market is China, followed by the US.
+
+There are around 1.644 billion cars in use worldwide as of January 2025;[134] they burn over a trillion litres (0.26×1012 US gal; 0.22×1012 imp gal) of petrol and diesel fuel yearly, consuming about 50 exajoules (14,000 TWh) of energy.[135] The number of cars is increasing rapidly in China and India.[13] In the opinion of some, urban transport systems based around the car have proved unsustainable, consuming excessive energy, affecting the health of populations, and delivering a declining level of service despite increasing investment. Many of these negative effects fall disproportionately on those social groups who are also least likely to own and drive cars.[136][137] The sustainable transport movement focuses on solutions to these problems. The car industry is also facing increasing competition from the public transport sector, as some people re-evaluate their use of private vehicles. In July 2021, the European Commission introduced the "Fit for 55" legislation package, outlining crucial directives for the automotive sector's future.[138][139] According to this package, by 2035, all newly sold cars in the European market must be Zero-emissions vehicles.[140][141][142]
+
+Alternatives
+Main article: Alternatives to car use
+
+The Vélib' in Paris, France, is the largest bikesharing system outside China.
+Established alternatives for some aspects of car use include public transport such as busses, trolleybusses, trains, subways, tramways, light rail, cycling, and walking. Bicycle sharing systems have been established in China and many European cities, including Copenhagen and Amsterdam. Similar programmes have been developed in large US cities.[143][144] Additional individual modes of transport, such as personal rapid transit could serve as an alternative to cars if they prove to be socially accepted.[145] A study which checked the costs and the benefits of introducing Low Traffic Neighbourhood in London found the benefits overpass the costs approximately by 100 times in the first 20 years and the difference is growing over time.[146]
+
+Motorsport
+Main article: Auto racing
+Auto racing is a sport involving the racing of automobiles. It includes various racing series such as Formula One, IndyCar Series, NASCAR, World Rally Championship and MotoGP.[147][148][149][150][151][excessive citations]
+
+See also
+	Cars portal
+Main article: Outline of automobiles
+General:
+
+Automotive safety
+Car classification
+Car costs
+Green vehicle
+Jaywalking
+Model vehicle
+Motor vehicle fatality rate in U.S. by year
+Motor vehicle theft
+Peak car
+Steering
+Traffic collision
+Effects:
+
+Car dependency
+Effects of the car on societies
+Energy consumption of cars
+Environmental effects of transport
+Externalities of automobiles
+Fenceline community
+Mobile source air pollution
+Noise pollution
+Roadway noise
+Traffic congestion
+Urban sprawl
+Mitigation:
+
+Car-free movement
+Carfree city
+Congestion pricing
+Highway revolt
+New Urbanism
+Smart growth
+Transit-oriented development
+
+Notes
+ Auxiliary power outlets may be supplied continuously or only when the ignition is active depending on electrical wiring.
+References
+ Fowler, H.W.; Fowler, F.G., eds. (1976). Pocket Oxford Dictionary. Oxford University Press. ISBN 978-0-19-861113-4.
+ "motor car, n." OED Online. Oxford University Press. September 2014. Archived from the original on 8 December 2014. Retrieved 29 September 2014.
+ Nicholson, T.R. (1982). The Birth of the British Motor Car. London: Macmillan.
+ "Frank Clarke Hills". Grace's Guide To British Industrial History. Retrieved 10 October 2026.
+ Oswald, Werner (2007). Mercedes Benz Personenwagen 1886 - 1945 [Mercedes Benz Cars 1886 - 1945] (in German). Stuttgart: Motorbuch Verlag. p. 14. ISBN 9783613027787.
+ "Some milestones of the auto age". The New York Times. 26 January 1986. ISSN 0362-4331. Retrieved 1 June 2023. 1901: The curved-dash Oldsmobile becomes the first car to be made in quantity.
+ Birch, Ryan (14 June 2024). "Best American cars of all time - Oldsmobile Curved Dash". Auto Express. Retrieved 10 August 2024. Although the success of the Ford Model T is often attributed to its early use of mass production on a moving assembly line, in fact the honour of being the first car built this way falls to the Oldsmobile Curved Dash model introduced in 1901.
+ "1926 Ford Model T Sports Touring Car". Washington Post. ISSN 0190-8286. Retrieved 1 June 2023. The T was an entirely new car, and historians credit it with revolutionizing the industry by putting Americans on wheels in a reliable, inexpensive mass-produced automobile.
+ "Model T ‑ Ford, Car & Invented". History. 26 April 2010. Archived from the original on 15 January 2025. Retrieved 10 August 2024. The Model T, sold by the Ford Motor Company from 1908 to 1927, was the earliest effort to make a car that most people could actually buy.
+ Hoekstra, Kyle (25 April 2022). "Ford Model T: The Invention of the World's First Affordable Car". History Hit. Retrieved 10 August 2024.
+ "The Motor Vehicle, 1917". Scientific American. January 2017. Archived from the original on 26 October 2022. Retrieved 16 January 2023.
+ "Automobile History". www.history.com. 21 August 2018. Archived from the original on 27 November 2018. Retrieved 29 August 2021.
+ "Automobile Industry Introduction". Plunkett Research. Archived from the original on 22 July 2011.
+ Smith, Matthew Nitch (22 April 2016). "The number of cars worldwide is set to double by 2040". World Economic Forum.
+ "Car Operating Costs". RACV. Archived from the original on 7 October 2009. Retrieved 22 December 2009.
+ Setright, L. J. K. (2004). Drive On!: A Social History of the Motor Car. Granta Books. ISBN 1-86207-698-7.
+ Peden, Margie; Scurfield, Richard; Sleet, David; Mohan, Dinesh; Hyder, Adnan A.; Jarawan, Eva; Mathers, Colin, eds. (2004). World report on road traffic injury prevention. World Health Organization. ISBN 92-4-156260-9. Archived from the original on 4 May 2008. Retrieved 24 June 2008.
+ Miner, Patrick; Smith, Barbara M.; Jani, Anant; McNeill, Geraldine; Gathorne-Hardy, Alfred (1 February 2024). "Car harm: A global review of automobility's harm to people and the environment". Journal of Transport Geography. 115 103817. Bibcode:2024JTGeo.11503817M. doi:10.1016/j.jtrangeo.2024.103817. ISSN 0966-6923.
+ "Car". (etymology). Online Etymology Dictionary. Archived from the original on 6 March 2008. Retrieved 2 June 2008.
+ "Wayne State University and The Detroit Public Library Present "Changing Face of the Auto Industry"". Wayne State University. 28 June 2003. Archived from the original on 28 June 2003.
+ "car, n.1". OED Online. Oxford University Press. September 2014. Archived from the original on 8 December 2014. Retrieved 29 September 2014.
+ "A dictionary of the Welsh language" (PDF). University of Wales. Archived (PDF) from the original on 6 October 2014. Retrieved 15 June 2016.
+ "auto-, comb. form2". OED Online. Oxford University Press. September 2014. Archived from the original on 8 December 2014. Retrieved 29 September 2014.
+ "Definition of horseless carriage". Merriam-Webster. Archived from the original on 13 June 2015. Retrieved 23 November 2015.
+ "Prospective Arrangements". The Times. 4 December 1897. p. 13.
+ "automobile, adj. and n." OED Online. Oxford University Press. September 2014. Archived from the original on 8 December 2014. Retrieved 29 September 2014.
+ "Definition of "auto"". Cambridge Dictionary. Archived from the original on 15 September 2015. Retrieved 19 August 2015.
+ "Definition of auto". Merriam-Webster. Archived from the original on 10 September 2015. Retrieved 23 November 2015.
+ Barker, Theo (1987). The Economic and Social Effects of the Spread of Motor Vehicles: An International Centenary Tribute (1st ed.). Palgrave Macmillan. p. 55. ISBN 978-1-349-08626-9.
+ "A broadside on a clockwork carriage built by Hans Hautsch". The British Museum. Retrieved 28 May 2024.
+ "1679-1681–R P Verbiest's Steam Chariot". History of the Automobile: origin to 1900. Hergé. Archived from the original on 3 March 2016. Retrieved 8 May 2009.
+ "A brief note on Ferdinand Verbiest". Curious Expeditions. 2 July 2007. Archived from the original on 10 March 2013. Retrieved 18 April 2008. – The vehicle pictured is the 20th century diecast model made by Brumm, of a later vehicle, not a model based on Verbiest's plans.
+ "Nicolas-Joseph Cugnot". Encyclopædia Britannica. Archived from the original on 29 April 2015. Retrieved 2 June 2022.
+ speos.fr. "Niepce Museum, Other Inventions". Niepce.house.museum. Archived from the original on 20 December 2005. Retrieved 26 August 2010.
+ Lazarnick, Nick (30 July 1907). "Henry Ford posing in Ford-Lenoir automobile". detroit public library. Archived from the original on 20 February 2023. Retrieved 20 February 2023.
+ Stein, Ralph (1967). The Automobile Book. Paul Hamlyn.
+ Wakefield, Ernest H. (1994). History of the Electric Automobile. Society of Automotive Engineers. pp. 2–3. ISBN 1-56091-299-5.
+ Benz, Carl (1925). Lebensfahrt eines deutschen Erfinders (2nd ed.). Leipzig: Kooehler & Amelang (published 1936).
+ Worby Beaumont, William (1900). Motor Vehicles and Motors. London: Archibald Constable & Co.
+ "Advertisement Emile Roger, Paris 1888". Mercedes-Benz.
+ "1897 Benz 1 1/2hp Velo Chassis no. Car no. 631 Engine no. 440". Bonhams Cars. Retrieved 23 May 2026.
+ "1885–1886. The first automobile". Daimler. Archived from the original on 21 October 2018. Retrieved 30 July 2021.
+ Garrison, Ervan G. (2018). History of Engineering and Technology: Artful Methods. Routledge. p. 272. ISBN 978-1-351-44048-6.
+ "Bertha Benz Hits the Road, 125 Years Ago – History in the Headlines". History.com. Archived from the original on 24 September 2015. Retrieved 13 October 2015.
+ Chave, Lynne. "Myth 2 - Selden's patent retarded early US automobile development". Faculty of Laws. Retrieved 7 October 2026.
+ Forum, Forbes Leadership. "The Father Of All Patent Trolls". Forbes. Retrieved 7 October 2026.
+ Howells, John; Katznelson, Ron D (1 June 2024). "Freedom to Operate analysis as competitive necessity—the Selden automobile patent case revisited". Journal of Intellectual Property Law & Practice. 19 (6): 493–507. doi:10.1093/jiplp/jpae018. ISSN 1747-1532.
+ "The First Car – A History of the Automobile". Ausbcomp.com. Archived from the original on 16 July 2011. Retrieved 17 July 2011.
+ "The Duryea Brothers – Automobile History". Inventors.about.com. 16 September 2010. Retrieved 17 July 2011.[dead link]
+ Longstreet, Stephen. A Century on Wheels: The Story of Studebaker. New York: Henry Holt. p. 121. 1st edn., 1952.
+ Clymer, Floyd (1950). Treasury of Early American Automobiles, 1877–1925. New York: Bonanza Books. p. 178.
+ Burgess Wise, D. (1970). Veteran and Vintage Cars. London: Hamlyn. ISBN 0-600-00283-7.
+ Georgano, N. (2000). Beaulieu Encyclopedia of the Automobile. London: HMSO. ISBN 1-57958-293-1.
+ Jerina, Nataša G. (May 2014). "Turin Charter ratified by FIVA". TICCIH. Archived from the original on 11 March 2018. Retrieved 11 March 2018.
+ "Industrialization of American Society". Engr.sjsu.edu. Archived from the original on 19 September 2010. Retrieved 17 July 2011.
+ Georgano, G. N. (2000). Vintage Cars 1886 to 1930. Sweden: AB Nordbok. ISBN 1-85501-926-4.
+ Hendrickson, Kenneth E., ed. (2014). The encyclopedia of the industrial revolution in world history. Lanham: Rowman & Littlefield Publishers. ISBN 978-0-8108-8888-3. OCLC 913956423.
+ "October: Growing preference for SUVs challenges emissions reductions in passenger car mark". IEA. Archived from the original on 18 October 2019. Retrieved 18 October 2019.
+ "Bloomberg NEF Electric Vehicle Outlook 2019". Bloomberg NEF. 15 May 2019. Archived from the original on 3 June 2019. Retrieved 3 June 2019.
+ "Govt to completely lift fuel subsidies in 2020: minister". Egypt Independent. 8 January 2019. Archived from the original on 2 February 2019. Retrieved 17 March 2019.
+ "Why the Rouhani administration must eliminate energy subsidies". Al-Monitor. 9 December 2018.
+ "Global Electric Vehicle Sales Set for Record-Breaking Year, Even as US Market Slows Sharply, BloombergNEF Finds". BloombergNEF. 18 June 2025. Retrieved 21 June 2025.
+ "Share of cars currently in use that are electric". Our World in Data. Archived from the original on 27 April 2025. Retrieved 25 May 2025.
+ "Are Electric Vehicles Safe?". www.recurrentauto.com. Retrieved 22 January 2024. EVs are mostly all built like a skateboard, with the battery pack on the bottom of the car. This gives them amazing cornering and handling, and makes them very hard to flip.
+ Cline, Amanda (25 December 2021). "What Is a Mild Hybrid Vehicle?". MotorBiscuit. Archived from the original on 16 January 2023. Retrieved 16 January 2023.
+ "Why Drum Brakes Works on EVs". Benevelli. Archived from the original on 16 January 2023. Retrieved 16 January 2023.
+ "Regenerative Braking: Benefits and Limitations". The Brake Report. 31 May 2022. Archived from the original on 16 January 2023. Retrieved 16 January 2023.
+ "VW Golf: Innenleuchten" (in German). Archived from the original on 25 October 2021. Retrieved 26 October 2021.
+ "[…] Kühlboxen im Test […]". auto motor und sport (in German). 24 May 2017. Archived from the original on 26 October 2021. Retrieved 26 October 2021.
+ "Alle Infos von der neuen Mercedes S-Klasse 2013 (W222)". auto.oe24.at (in German). 16 May 2013. Archived from the original on 26 October 2021. Retrieved 26 October 2021.
+ "Mercedes-Benz S-Klasse 2013: Alle Details und Fotos des neuen Alphatiers". Speed Heads (in German). 2013. Archived from the original on 26 October 2021. Retrieved 26 October 2021.
+ "Used 2008 Chevrolet Suburban Features & Specs". Edmunds. Archived from the original on 25 November 2015. Retrieved 25 November 2015.
+ "How much do electric cars weigh?". EV Archive. Archived from the original on 16 July 2019. Retrieved 1 December 2019.
+ Lowrey, Annie (27 June 2011). "Your Big Car Is Killing Me". Slate. Archived from the original on 25 November 2015. Retrieved 25 November 2015.
+ Sellén, Magnus (2 August 2019). "How much does a Car Weigh? – [Weight List by Car Model & Type]". Mechanic Base. Archived from the original on 22 December 2019. Retrieved 1 December 2019.
+ Keller, Michael H.; Murray, Eli; Ivory, Danielle; Cabreros, Irineo (21 June 2026). "The Deadly Rise of Giant Trucks and S.U.V.s". The New York Times. Retrieved 29 September 2026.
+ Niranjan, Ajit (22 January 2024). "SUVs drive trend for new cars to grow 1cm wider in UK and EU every two years, says report". The Guardian.
+ Shaffer, Blake; Auffhammer, Maximilian; Samaras, Constantine (14 October 2021). "Make electric vehicles lighter to maximize climate and safety benefits". Nature. 598 (7880): 254–256. Bibcode:2021Natur.598..254S. doi:10.1038/d41586-021-02760-8. PMID 34642477.
+ "How big a battery should you insist on for your electric car?". thestar.com. 9 April 2022. Archived from the original on 2 October 2022. Retrieved 2 October 2022.
+ "Mary Ward 1827–1869". Universityscience.ie. Archived from the original on 11 March 2008. Retrieved 27 October 2008.
+ "Bliss plaque". CityStreets. Archived from the original on 26 August 2006.
+ "SaferCar.gov". NHTSA. Archived from the original on 27 July 2004.
+ "IIHS-HLDI". IIHS-HLDI crash testing and highway safety. Archived from the original on 23 January 2018. Retrieved 1 December 2022.
+ "Americans' love affair with big cars is killing them". The Economist. ISSN 0013-0613. Retrieved 21 September 2024.
+ "New rules to improve road safety and enable fully driverless vehicles in the EU". European Commission - European Commission. Retrieved 21 June 2025.
+ Fran Tonkiss (2005). Space, the city and social theory: social relations and urban forms. Polity.
+ "Ford's Affordable EV Charger Will Let an F-150 Power Your Home". Review Geek. March 2022. Archived from the original on 7 March 2022. Retrieved 7 March 2022.
+ Anthony, Ariana (9 May 2013). "Dating in the 1920s: Lipstick, Booze and the Origins of Slut-Shaming | HowAboutWe". The Huffington Post. Archived from the original on 20 November 2015. Retrieved 23 November 2015.
+ Jakle, John A.; Sculle, Keith A. (2004). Lots of Parking: Land Use in a Car Culture. University of Virginia Press. ISBN 0-8139-2266-6.
+ "Highlights of the Automotive Trends Report". EPA.gov. U.S. Environmental Protection Agency (EPA). 12 December 2022. Archived from the original on 2 September 2023.
+ Cazzola, Pierpaolo; Paoli, Leonardo; Teter, Jacob (November 2023). "Trends in the Global Vehicle Fleet 2023 / Managing the SUV Shift and the EV Transition" (PDF). Global Fuel Economy Initiative (GFEI). p. 3. doi:10.7922/G2HM56SV. Archived (PDF) from the original on 26 November 2023.
+ Data from McKerracher, Colin (12 January 2023). "Electric Vehicles Look Poised for Slower Sales Growth This Year". BloombergNEF. ● Data updated through 2025: chart labeled "Global passenger EV sales by market" in "Electric Vehicle Outlook 2025". BloombergNEF. 2026. Archived from the original on 25 April 2026.
+ "Cars and Vans – Analysis". IEA. Retrieved 3 December 2024.
+ "Outlook for emissions reductions – Global EV Outlook 2024 – Analysis". IEA. Retrieved 3 December 2024.
+ "SUVs are setting new sales records each year – and so are their emissions – Analysis". IEA. 28 May 2024. Retrieved 3 December 2024.
+ Sengupta, Somini; Popovich, Nadja (14 November 2019). "Cities Worldwide Are Reimagining Their Relationship With Cars". The New York Times. ISSN 0362-4331. Archived from the original on 4 December 2019. Retrieved 1 December 2019.
+ "Electric vehicles also cause air pollution". The Economist. ISSN 0013-0613. Retrieved 25 May 2025.
+ "A Review and Comparative Analysis of Fiscal Policies Associated with New Passenger Vehicle CO2 Emissions" (PDF). International Council on Clean Transportation. February 2011. Archived (PDF) from the original on 8 March 2021. Retrieved 15 October 2013.
+ "Tough Euro 7 pollution rules planned for adoption this month". Automotive News Europe. 10 October 2022. Archived from the original on 24 October 2022. Retrieved 24 October 2022.
+ Carroll, Sean Goulding (5 July 2022). "A seismic shift: Support for ICE melts as Europe warms to EVs". www.euractiv.com. Archived from the original on 7 July 2022. Retrieved 7 July 2022.
+ Sherwood, Harriet (26 January 2020). "Brighton, Bristol, York ... city centres signal the end of the road for cars". The Observer. ISSN 0029-7712. Archived from the original on 26 January 2020. Retrieved 26 January 2020.
+ Boffey, Daniel (3 May 2019). "Amsterdam to ban petrol and diesel cars and motorbikes by 2030". The Guardian. ISSN 0261-3077. Archived from the original on 7 September 2020. Retrieved 18 May 2019.
+ Lambert, Fred (6 June 2019). "China boosts electric car sales by removing license plate quotas". Electrek. Archived from the original on 8 November 2019. Retrieved 11 June 2019.
+ "Planning and the Complicated Causes and Effects of Congestion". www.planetizen.com. Archived from the original on 24 October 2022. Retrieved 24 October 2022.
+ Newman, Katelyn (12 February 2019). "Cities With the World's Worst Traffic Congestion". US News. Archived from the original on 18 March 2019. Retrieved 16 March 2019.
+ "Tackling transport-related barriers to employment in low-income neighbourhoods". JRF. 6 August 2018. Archived from the original on 13 April 2021. Retrieved 13 April 2021.
+ Mattioli, Giulio (28 December 2017). "'Forced Car Ownership' in the UK and Germany: Socio-Spatial Patterns and Potential Economic Stress Impacts". Social Inclusion. 5 (4): 147–160. doi:10.17645/si.v5i4.1081.
+ Andrew Ross; Julie Livingston (15 December 2022). "Once You See the Truth About Cars, You Can't Unsee It". The New York Times. No. New York Times. Archived from the original on 15 December 2022. Retrieved 16 December 2022. Andrew Ross and Julie Livingston are New York University professors, members of NYU's Prison Education Program Research Lab and authors of the book "Cars and Jails: Freedom Dreams, Debt, and Carcerality."
+ "Health impacts". www.who.int. Retrieved 2 July 2026.
+ Ward, G; Correia Watts, MP; Hansson, SR (June 2025). "The unintended consequences of modernity: Pollution and its effect on reproductive, maternal and fetal health". Pregnancy Hypertension. 40 101204. doi:10.1016/j.preghy.2025.101204. PMID 40015200.
+ Debelu, D; Mengistu, DA; Aschalew, A; Mengistie, B; Deriba, W (2024). "Global Public Health Implications of Traffic Related Air Pollution: Systematic Review". Environmental Health Insights. 18 (2) 11786302241272403. Bibcode:2024EnvHI..1872403D. doi:10.1177/11786302241272403. PMC 11348364. PMID 39192968.
+ Brumberg, Heather L.; Karr, Catherine J.; Bole, Aparna; Ahdoot, Samantha; Balk, Sophie J.; Bernstein, Aaron S.; Byron, Lori G.; Landrigan, Philip J.; Marcus, Steven M.; Nerlinger, Abby L.; Pacheco, Susan E.; Woolf, Alan D.; Zajac, Lauren; Baum, Carl R.; Campbell, Carla C.; Sample, Jennifer A.; Spanier, Adam J.; Trasande, Leonardo (June 2021). "Ambient Air Pollution: Health Hazards to Children". Pediatrics. 147 (6) e2021051484. Bibcode:2021Pedia.14751484B. doi:10.1542/peds.2021-051484. PMID 34001642.
+ "Our Ailing Communities". Metropolis Magazine. Archived from the original on 8 February 2007.
+ Weir, Holly (1 January 2023). "Children's autonomous mobility and their well-being". Wellbeing, Space and Society. 4 100134. doi:10.1016/j.wss.2023.100134. ISSN 2666-5581.
+ "EV battery research projects get £55m funding boost". Air Quality News. 5 September 2019. Archived from the original on 5 September 2019. Retrieved 5 September 2019.
+ "New EV batteries are making electric cars cheaper and safer". The Washington Post. 19 February 2025. Archived from the original on 7 April 2025. Retrieved 21 June 2025.
+ Redondo, Mónica (11 February 2022). "LiDar sensors: how their use in the automotive industry is growing". Driving ECO. Retrieved 21 June 2025.
+ "Wireless electric car charging gets cash boost". 9 July 2019. Archived from the original on 9 December 2019. Retrieved 3 January 2020.
+ "Driving the future: 10 automotive industry trends and predictions". Archived from the original on 23 January 2025. Retrieved 21 June 2025.
+ "Survey reveals aluminum remains fastest growing automotive material". Automotive World. 12 August 2020. Archived from the original on 21 October 2021. Retrieved 15 October 2021.
+ Vyas, Kashyap (3 October 2018). "This New Material Can Transform the Car Manufacturing Industry". Interesting Engineering. Turkey. Archived from the original on 16 September 2019. Retrieved 16 March 2019.
+ "Inside Uniti's plan to build the iPhone of EVs". GreenMotor.co.uk. Archived from the original on 3 July 2017. Retrieved 26 June 2017.
+ "Geek My Ride presentation at linux.conf.au 2009". Archived from the original on 11 April 2011. Retrieved 11 July 2010.
+ "This giant microwave may change the future of war". MIT Technology Review. Retrieved 21 June 2025.
+ "China's Xpeng passes autonomous driving test in race to launch robotaxis". South China Morning Post. 25 October 2022. Archived from the original on 24 October 2022. Retrieved 24 October 2022.
+ "8 Ways Waymo's Autonomous Taxi Surprised Us on a Ride". Consumer Reports. 4 October 2022. Archived from the original on 24 October 2022. Retrieved 24 October 2022.
+ Sever, Tina; Contissa, Giuseppe (March 2024). "Automated driving regulations – where are we now?". Transportation Research Interdisciplinary Perspectives. 24 101033. Bibcode:2024TrRIP..2401033S. doi:10.1016/j.trip.2024.101033. hdl:1814/92950.
+ Mims, Christopher (5 June 2021). "Self-Driving Cars Could Be Decades Away, No Matter What Elon Musk Said". The Wall Street Journal. ISSN 0099-9660. Archived from the original on 2 September 2021. Retrieved 2 September 2021.
+ "Global Automotive Consumer Study – exploring consumer preferences and mobility choices in Europe" (PDF). Deloitte. 2014. Archived from the original (PDF) on 4 July 2015. Retrieved 23 November 2015.
+ "Flexcar Expands to Philadelphia". Green Car Congress. 2 April 2007. Archived from the original on 9 July 2007. Retrieved 12 April 2007.
+ "2020 Statistics". OICA. Archived from the original on 2 April 2022. Retrieved 2 September 2021.
+ "2019 Statistics". OICA. Archived from the original on 20 November 2021. Retrieved 2 September 2021.
+ "2018 Statistics". OICA. Archived from the original on 19 September 2021. Retrieved 24 September 2021.
+ admin (24 June 2021). "How Many Cars Are There In The World [2025]?". Hedges & Company. Retrieved 13 September 2025.
+ "Global Transportation Energy Consumption: Examination of Scenarios to 2040 using ITEDD" (PDF). Energy Information Administration. September 2017. Archived (PDF) from the original on 11 May 2019. Retrieved 16 March 2019.
+ "Transport and health". World Health Organisation, Europe. Archived from the original on 29 May 2011. Retrieved 29 August 2008.
+ "Global Action for Healthy Streets: Annual Report 2018" (PDF). FiA Foundation. Retrieved 16 March 2019.[permanent dead link]
+ "EU ban on the sale of new petrol and diesel cars from 2035 explained". Topics | European Parliament. 11 March 2022. Retrieved 17 December 2024.
+ "European Green Deal: Commission proposes transformation of EU economy and society to meet climate ambitions". European Commission - European Commission. Retrieved 17 December 2024.
+ "New cars sold in EU must be zero-emission from 2035". 28 March 2023. Retrieved 17 December 2024.
+ "Thảm lót sàn ô tô" (in Vietnamese). Retrieved 17 December 2024.
+ philcurry (14 July 2021). "Fit for 55: EU introduces ban on petrol and diesel cars by 2035". Autovista24. Retrieved 17 December 2024.
+ "About Bike Share Programs". Tech Bikes MIT. Archived from the original on 20 December 2007. Retrieved 17 August 2019.
+ Cambell, Charlie (2 April 2018). "The Trouble with Sharing: China's Bike Fever Has Reached Saturation Point". Time. Archived from the original on 7 June 2019. Retrieved 18 August 2019.
+ Kay, Jane Holtz (1998). Asphalt Nation: how the automobile took over America, and how we can take it back. University of California Press. ISBN 0-520-21620-2.
+ Walker, Peter (8 March 2024). "Health gains of low-traffic schemes up to 100 times greater than costs, study finds". The Guardian. Retrieved 10 March 2024.
+ "Everything you need to know about F1". www.formula1.com. Retrieved 21 September 2025.
+ "Behind the Wheel: Understanding NASCAR Racing for New Fans". www.sonomaraceway.com. Retrieved 21 September 2025.
+ "Drifting". Motorsport UK. Retrieved 21 September 2025.
+ Insurance, Quote Sports. "Types of Motorsport Explained - Quote Sports Insurance". www.quotesportsinsurance.co.uk. Retrieved 21 September 2025.
+ "Motorsport Explained: MotoGP". parc femme. 4 February 2025. Retrieved 21 September 2025.
+Further reading
+Berger, Michael L. (2001). The automobile in American history and culture: a reference guide. US: Bloomsbury Publishing. ISBN 978-0-313-01606-6.
+Brinkley, Douglas (2003). Wheels for the world: Henry Ford, his company, and a century of progress, 1903-2003. Viking. ISBN 978-0-670-03181-8.
+Cole, John; Cole, Francis (213). A Geography of the European Union. London: Routledge. p. 110. ISBN 978-1-317-83558-5. – Number of cars in use (in millions) in various European countries in 1973 and 1992
+Halberstam, David (1986). The Reckoning. New York: Morrow. ISBN 0-688-04838-2.
+Kay, Jane Holtz (1997). Asphalt nation: how the automobile took over America, and how we can take it back. New York: Crown. ISBN 0-517-58702-5.
+Margolius, Ivan (2020). "What is an automobile?". The Automobile. 37 (11): 48–52. ISSN 0955-1328.
+Sachs, Wolfgang (1992). For love of the automobile: looking back into the history of our desires. Berkeley: University of California Press. ISBN 0-520-06878-5.
+Wilkins, Mira; Hill, Frank Ernest (1964). American Business Abroad: Ford on Six Continents.
+Williams, Heathcote (1991). Autogeddon. New York: Arcade. ISBN 1-55970-176-5.
+Latin America: Economic Growth Trends. US: Agency for International Development, Office of Statistics and Reports. 1972. p. 11. – Number of motor vehicles registered in Latin America in 1970
+World Motor Vehicle Production and Registration. US: Business and Defense Services Administration, Transportation Equipment Division. p. 3. – Number of registered passenger cars in various countries in 1959-60 and 1969–70
+External links
+
+Wikiquote has quotations related to Car.
+Wikisource logo
+English Wikisource has original text related to this article:
+California AB 1493
+Wiktionary logo
+Look up car in Wiktionary, the free dictionary.
+Wikimedia Commons logo Media related to Automobiles at Wikimedia Commons
+Fédération Internationale de l'Automobile
+Forum for the Automobile and Society
+Transportation Statistics Annual Report 1996: Transportation and the Environment by Fletcher, Wendell; Sedor, Joanne; p. 219 (contains figures on vehicle registrations in various countries in 1970 and 1992)
+vte
+Car interior
+vte
+Car design
+vte
+Automotive design
+vte
+Internal combustion engine
+vte
+Powertrain
+vte
+Chassis control system
+vte
+Automotive industry
+vte
+Private transport
+Authority control databases Edit this at Wikidata
+Categories: CarsPrivate transportVehicles by typeWheeled vehiclesGerman inventions19th-century inventionsMotor vehicles
+This page was last edited on 12 October 2026, at 09:07 (UTC). Page was rendered with Parsoid.
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki
