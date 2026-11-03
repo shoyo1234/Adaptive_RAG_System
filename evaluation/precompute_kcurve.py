@@ -60,12 +60,18 @@ def main():
     out = Path(config.RESULTS_DIR) / f"kcurve_{args.split}.csv"
     df.to_csv(out, index=False)
 
-    print("\nSanity check, mean NDCG@10 (should match your earlier static runs "
-          "within about 0.005):")
-    print(f"  hybrid {df.ndcg_hybrid.mean():.4f}   (earlier 0.6449)")
-    for k, ref in zip(KS, (0.6504, 0.6664, 0.6689, 0.6753)):
-        print(f"  k={k:<2}   {df[f'ndcg_k{k}'].mean():.4f}   (earlier {ref})")
+    if args.split == "dev":
+        print("\nSanity check, mean NDCG@10 (should match your earlier static runs):")
+        print(f"  hybrid {df.ndcg_hybrid.mean():.4f}   (earlier 0.6449)")
+        for k, ref in zip(KS, (0.6504, 0.6664, 0.6689, 0.6753)):
+            print(f"  k={k:<2}   {df[f'ndcg_k{k}'].mean():.4f}   (earlier {ref})")
+    else:
+        print("\nTest-split means (report only; do not tune on these):")
+        print(f"  hybrid {df.ndcg_hybrid.mean():.4f}")
+        for k in KS:
+            print(f"  k={k:<2}   {df[f'ndcg_k{k}'].mean():.4f}")
     print(f"\nSaved: {out}")
+
 
 
 if __name__ == "__main__":

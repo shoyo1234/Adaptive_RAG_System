@@ -17,3 +17,21 @@
   latency (mean / median / p95) measured with all modes run back-to-back in one session.
 - Known limitations: 150 test queries give CIs of roughly +/-0.02 NDCG; single dataset;
   cross-encoder cannot help when the relevant passage is outside the candidate depth.
+
+
+## Addendum (written after the aggregate test means were seen, before any gate-level test result)
+
+- Aggregate test-split NDCG@10 was observed: hybrid 0.7314, rerank k=3/5/10/20 =
+  0.7213/0.7140/0.7054/0.6985. Reranking did not improve on hybrid on the test split.
+  The primary gate and the ablations below are NOT changed in response.
+- Thresholds for the single-signal ablations, all computed from DEV only:
+  (c1) skip if dense gap >= dev median, else rerank top-5;
+  (c2) skip if BM25 relative gap >= dev median, else rerank top-5;
+  (c3) skip if top-3 overlap between dense and BM25 >= 2/3, else rerank top-5.
+- Ablation (a) uses the dev 30th percentile of the dense gap; ablation (b) uses the dev
+  median dense gap among non-agreeing queries as its "confident" cutoff.
+- A pooled dev+test (300 query) table is reported as a secondary, descriptive result.
+  Because the gate design used dev, the pooled gate numbers are optimistic; the test-only
+  table is the clean one.
+- If a second dataset is added, it will be reported alongside SciFact, not instead of it,
+  and the reason (reranking showed no benefit on SciFact test) will be stated.
