@@ -3,7 +3,9 @@
 Rotating the mode order per query spreads background-load drift evenly across modes.
 Rankings from pass 1 are also scored, as a consistency check against final_report.
 
-Usage (from repo root): uv run python -m evaluation.timing --split test --repeats 3
+Usage (from the repo root):
+    python -m evaluation.timing --split test --repeats 3
+    uv run python -m evaluation.timing --split test --repeats 3
 """
 import argparse
 from pathlib import Path

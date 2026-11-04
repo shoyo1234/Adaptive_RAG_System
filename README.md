@@ -46,15 +46,27 @@ This makes it easy to test how document retrieval works for domain-specific cont
 
 ### 1. Install dependencies
 
-Create a virtual environment and install the project dependencies:
+Create a virtual environment and install the project dependencies with pip:
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-uv sync
+python -m pip install -r requirements.txt
 ```
 
-If you are not using `uv`, install the dependencies from `pyproject.toml` with your preferred package manager or via pip for the listed packages.
+If Python reports `ModuleNotFoundError: No module named '_lzma'`, the Python installation used to create the virtual environment is missing LZMA support. Recreate the environment with a Python installation that includes it, then reinstall the requirements. For example, on Ubuntu:
+
+```bash
+mv .venv .venv-broken
+/usr/bin/python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+```
+
+### Run the full workflow
+
+From the project root, run `./run.sh` on Linux/macOS with the project dependencies installed in `.venv`. On Windows, run `run.bat` from a uv environment; it runs each command with `uv run` and exports `requirements.txt` with uv.
+
+Both scripts check the dataset, build/load the index, run tests and evaluations, and run the timing benchmark (`evaluation.timing`).
 
 ### 2. Add documents
 
